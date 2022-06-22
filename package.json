@@ -1,0 +1,12 @@
+{
+    "name": "test4",
+    "description": "teeeest",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "demo2.json",
+            "credentialsFile": "demo2_cred.json"
+        }
+    }
+}
